@@ -1,6 +1,6 @@
 # Othread Obfuscator
 
-Othread is an obfuscation tool based on LLVM, which can perfectly realize the obfuscation of C/C++ code under the Windows platform of x86 architecture.
+Othread is an obfuscation tool based on LLVM, which can perfectly realize the obfuscation of C/C++ code under the Windows platform of x86 architecture. Othread is now public in IEEE TDSC.
 
 ## 0x01 Principle
 
